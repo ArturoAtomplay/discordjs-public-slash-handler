@@ -1,14 +1,14 @@
 {
   "name": "discord.js-public-handler",
   "version": "1.0.0",
-  "description": "",
+  "description": "a class structure to start directly with Slash commands",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "firstDeploy": "node index.js --devDeploy"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["slash commands", "discord bot"],
+  "author": "https://github.com/arturoAtomplay",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^13.3.1"

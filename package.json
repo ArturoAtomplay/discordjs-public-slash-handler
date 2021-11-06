@@ -1,0 +1,19 @@
+{
+  "name": "discord.js-public-handler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "firstDeploy": "node index.js --devDeploy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.3.1"
+  },
+  "devDependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
